@@ -1,4 +1,12 @@
 # seamlessPainter
 ![image](https://github.com/shenmifangke/seamlessPainter/blob/master/logo.png)
 
-draw pixel seamless texture
+The main job is to draw pixel seamless texture.
+此软件主要用于制作无缝的像素循环纹理
+
+![image](https://github.com/shenmifangke/seamlessPainter/blob/master/main.jpg)
+
+几个样例
+![image](https://github.com/shenmifangke/seamlessPainter/blob/master/sample1.png)
+![image](https://github.com/shenmifangke/seamlessPainter/blob/master/sample2.png)
+
