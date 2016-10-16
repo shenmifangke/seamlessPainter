@@ -10,3 +10,5 @@ The main job is to draw pixel seamless texture.
 ![image](https://github.com/shenmifangke/seamlessPainter/blob/master/sample1.png)
 ![image](https://github.com/shenmifangke/seamlessPainter/blob/master/sample2.png)
 
+博客地址
+http://blog.csdn.net/shenmifangke/article/details/52833266
